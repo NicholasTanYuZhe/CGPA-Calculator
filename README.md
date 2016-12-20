@@ -1,2 +1,2 @@
 # CGPA-Calculator
-GPA and CGPA calculator written in Python and convert to C++ afterwards
+GPA and CGPA calculator initially written in Python and afterwards convert to C++
